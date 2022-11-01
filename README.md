@@ -7,7 +7,7 @@
 ## Friendly reminder: After fork this project, change heroku deploy address to your own name.
 ## It is forbidden to promote this project on any website!!!!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/ficely9god/tie)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/ficely9god/heroku-vless)
 
 # VLESS Client Setup
 
